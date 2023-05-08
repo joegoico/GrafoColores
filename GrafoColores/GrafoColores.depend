@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683436144 source:c:\users\jmgoi\onedrive\documentos\facultad\ayda 2\grafocolores\main.cpp
+	"GrafoColores.h"
+	"iostream"
+
+1683436223 c:\users\jmgoi\onedrive\documentos\facultad\ayda 2\grafocolores\include\grafocolores.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<iostream>
+
+1683413443 source:c:\users\jmgoi\onedrive\documentos\facultad\ayda 2\grafocolores\src\grafocolores.cpp
+	"GrafoColores.h"
+
